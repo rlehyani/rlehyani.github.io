@@ -8,7 +8,7 @@
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-Visit%20Website-6C63FF?style=for-the-badge&logo=googlechrome&logoColor=white)](https://rlehyani.github.io/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rlehyani/)
-[![Resume](https://img.shields.io/badge/Resume-View%20PDF-1F2937?style=for-the-badge&logo=adobeacrobatreader&logoColor=white)](./assets/Roaa_AlLehyani_Resume.pdf)
+[![Resume](https://img.shields.io/badge/Resume-View%20PDF-1F2937?style=for-the-badge&logo=adobeacrobatreader&logoColor=white)](./assets/Roaa_Allehyani_Data_Analyst_Resume.pdf)
 
 </div>
 
@@ -108,7 +108,7 @@ The platform demonstrates my ability to:
 ├── assets/
 │   ├── styles.css
 │   ├── script.js
-│   ├── Roaa_AlLehyani_Resume.pdf
+│   ├── Roaa_Allehyani_Data_Analyst_Resume.pdf
 │   ├── og-image.png
 │   ├── favicon.svg
 │   └── site.webmanifest
@@ -129,7 +129,7 @@ Visit the published website:
 
 My latest resume is available here:
 
-### [View Resume](./assets/Roaa_AlLehyani_Resume.pdf)
+### [View Resume](./assets/Roaa_Allehyani_Data_Analyst_Resume.pdf)
 
 ---
 
