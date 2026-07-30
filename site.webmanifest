@@ -1,0 +1,21 @@
+{
+  "name": "Roaa Al-Lehyani — Software Engineer",
+  "short_name": "Roaa Portfolio",
+  "description": "Software Engineer who turns complex workflows into clear, reliable systems.",
+  "start_url": "./",
+  "display": "standalone",
+  "background_color": "#07090f",
+  "theme_color": "#07090f",
+  "icons": [
+    {
+      "src": "assets/favicon-192x192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "assets/favicon-512x512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    }
+  ]
+}
