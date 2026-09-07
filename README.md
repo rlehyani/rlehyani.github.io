@@ -2,13 +2,13 @@
 
 # Roaa Al-Lehyani
 
-### Software Engineer & Data Analyst
+### Software Engineer | Python Backend | Full-Stack Development
 
-**From Data to Decisions.**
+**Building reliable software from real operational requirements.**
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-Visit%20Website-6C63FF?style=for-the-badge&logo=googlechrome&logoColor=white)](https://rlehyani.github.io/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rlehyani/)
-[![Resume](https://img.shields.io/badge/Resume-View%20PDF-1F2937?style=for-the-badge&logo=adobeacrobatreader&logoColor=white)](./assets/Roaa_Allehyani_Data_Analyst_Resume.pdf)
+[![Resume](https://img.shields.io/badge/Resume-View%20PDF-1F2937?style=for-the-badge&logo=adobeacrobatreader&logoColor=white)](./assets/Roaa_Allehyani_Resume.pdf)
 
 </div>
 
@@ -16,17 +16,17 @@
 
 ## About Me
 
-I am a results-driven **Software Engineer and Data Analyst** with hands-on experience in full-stack application development, data analysis, Business Intelligence, and database engineering.
+I am a **Software Engineer** with hands-on experience building and maintaining full-stack business applications using **Python, Flask, PostgreSQL, JavaScript, and REST APIs**.
 
-I build scalable web applications, secure REST APIs, interactive dashboards, and data-driven solutions that automate workflows, improve operational efficiency, and support better business decisions.
+My work focuses on backend development, database design, workflow automation, system integration, reporting solutions, and translating operational requirements into scalable software solutions.
 
-My work combines software engineering with analytics to transform complex requirements and datasets into reliable, practical, and user-focused digital products.
+I enjoy solving complex business and technical problems by building practical, reliable, and user-focused applications that improve workflows and support better decision-making.
 
 ---
 
 ## Portfolio Overview
 
-This repository contains my bilingual personal portfolio, designed to present my technical experience, projects, and approach to building modern software and data solutions.
+This repository contains my bilingual personal portfolio, designed to present my software engineering experience, technical projects, and approach to building modern business applications.
 
 The website supports:
 
@@ -44,20 +44,22 @@ The website supports:
 ### Software Engineering
 
 - Full-stack web application development
-- REST API design and integration
 - Backend development with Python and Flask
+- REST API design and integration
 - Responsive frontend development with JavaScript, HTML, and CSS
-- Database architecture and application integration
+- Database design and relational data modeling
 - Workflow automation and process optimization
+- System integration and application maintenance
+- Production reporting and operational tools
 
-### Data & Business Intelligence
+### Data & Reporting
 
 - SQL-based data analysis
+- Operational reporting and KPI tracking
 - Interactive dashboard development
 - Data visualization with Plotly
-- Operational reporting and KPI tracking
-- Transforming datasets into actionable insights
-- Data-driven decision support
+- Business Intelligence solutions
+- Transforming operational data into actionable insights
 
 ---
 
@@ -85,18 +87,21 @@ The website supports:
 
 ### Operational Intelligence Platform
 
-A full-stack platform designed to transform operational data into clear, interactive, and actionable insights.
+An enterprise full-stack web platform designed to support operational workflows, data management, performance analysis, and reporting across multiple operational sites.
 
 The platform demonstrates my ability to:
 
-- Build and structure end-to-end web applications
-- Design secure APIs and relational database models
-- Develop interactive dashboards and analytical reports
-- Automate data-driven workflows
-- Translate business requirements into practical software solutions
-- Create bilingual, accessible, and responsive user experiences
+- Lead end-to-end web application development
+- Build backend services and REST APIs using Python and Flask
+- Design PostgreSQL database structures and application data models
+- Implement database migrations, validation, and business logic
+- Develop responsive frontend interfaces
+- Build operational data entry and management workflows
+- Generate KPI, analytical, and PDF reports
+- Automate reporting and repetitive operational processes
+- Translate business requirements into production-ready software solutions
 
-**Core technologies:** Python, Flask, PostgreSQL, MySQL, SQL, JavaScript, Plotly, HTML, and CSS.
+**Core technologies:** Python, Flask, PostgreSQL, SQL, JavaScript, Tailwind CSS, Alpine.js, Plotly, HTML, and CSS.
 
 ---
 
@@ -108,40 +113,8 @@ The platform demonstrates my ability to:
 ├── assets/
 │   ├── styles.css
 │   ├── script.js
-│   ├── Roaa_Allehyani_Data_Analyst_Resume.pdf
+│   ├── Roaa_Allehyani_Resume.pdf
 │   ├── og-image.png
 │   ├── favicon.svg
 │   └── site.webmanifest
 └── README.md
-```
-
----
-
-## Live Portfolio
-
-Visit the published website:
-
-### [rlehyani.github.io](https://rlehyani.github.io/)
-
----
-
-## Resume
-
-My latest resume is available here:
-
-### [View Resume](./assets/Roaa_Allehyani_Data_Analyst_Resume.pdf)
-
----
-
-## Connect With Me
-
-- [LinkedIn](https://www.linkedin.com/in/rlehyani/)
-- [Portfolio](https://rlehyani.github.io/)
-
----
-
-<div align="center">
-
-**Designing. Building. Analyzing. Improving.**
-
-</div>
